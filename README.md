@@ -45,7 +45,9 @@
 
 ### Решение 2
 
-![](https://github.com/ZmAkser/sdb-homework-11-04/blob/main/img/Screenshot_20260515_073539.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task2_status.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task2_from_master.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task2_from_slave.png)
 
 ---
 
@@ -60,7 +62,12 @@
 ### Решение 3
 
 
-![](https://github.com/ZmAkser/sdb-homework-11-04/blob/main/img/Screenshot_20260515_071706.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task3_status_master1.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task3_status_master2.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task3_insert_master1.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task3_syn_master2.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task3_insert_master2.png)
+![](https://github.com/ZmAkser/sdb-homework_12-06/blob/main/img/task3_syn_master1.png)
 
 ---
 
