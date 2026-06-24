@@ -131,7 +131,7 @@ https://hub.docker.com/r/zmakser/mra_publick
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-43.png)
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-43_1.png)
 
-!([]https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-44.png)
+![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-44.png)
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-44_1.png)
 
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-45.png)
@@ -195,10 +195,6 @@ services:
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-32.png)
 
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-53.png)
-
-![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-54.png)
-
-![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_12-00.png)
 
 ![](https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_13-50.png)
 
