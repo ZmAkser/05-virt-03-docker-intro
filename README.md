@@ -46,6 +46,7 @@ Hey, Netology
 
 ### Решение 1
 
+https://hub.docker.com/r/zmakser/mra_publick
 
 ---
 
@@ -63,8 +64,16 @@ Hey, Netology
 ---
 
 ### Решение 2
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-28.png)
 
-Нажав Ctal+C мы остановили единственный работающий в контейнере сервис(nginx), и т.к. контейнеру более нечего делать, он остановился.
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-29.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-32.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-33.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-34.png)
+
 ---
 
 ### Задание 3
@@ -88,7 +97,21 @@ Hey, Netology
 
 ### Решение 3
 
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-42.png)
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_13-55.png)
+Нажав Ctal+C мы остановили единственный работающий в контейнере сервис(nginx), и т.к. контейнеру более нечего делать, он остановился.
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_14-07.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_14-09.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_14-10.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_14-12.png)
+
 После наших исправлений внутри контейера nginx работает на 81 порту, а в конфигурации контейера остался проброс с порта 80 на порт 8080. Соответсвенно никаких данные на 8080 не пуступают, т.к. на 80 порт внутри контейнера более ничего не передается.
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-07.png)
 
 ---
 
@@ -104,6 +127,14 @@ Hey, Netology
 ---
 
 ### Решение 4
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-43.png)
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-43_1.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-44.png)
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-44_1.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_15-45.png)
 
 ---
 
@@ -154,6 +185,25 @@ services:
 
 ### Решение 5
 
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_16-22.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-23_16-24.png)
 По умолчанию обрабатывается файл compose.yaml из того каталога, откуда вызван докер компос. Файл dokcer-compose.yaml также обрабатывается в целях совместимости, но только если нет файла compose.yaml .
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-27.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-32.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-53.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_11-54.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_12-00.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_13-50.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_13-51.png)
+
+!(https://github.com/ZmAkser/05-virt-03-docker-intro/blob/main/img/2026-06-24_13-55.png)
 
 ---
